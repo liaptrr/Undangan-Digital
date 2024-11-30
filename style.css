@@ -1,0 +1,452 @@
+.container1 {
+    background-image: url(img/foto2\ \(2\).jpg);
+    text-align: center;
+    color: black;
+    margin: 50px auto;
+    margin-top: 30px;
+    border-radius: 20px;
+    padding: 10px;
+    height: 852px;
+    width: 393px;
+}
+
+.container8 {
+    margin: -10px;
+    padding: 10px;
+    color: black;
+    background-color: #C4DAD2;
+    text-align: left;
+    font-size: 10px;
+    margin-top: 98px;
+    margin-right: 30px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+
+.nama-mempelai, .tamu-undangan, .text {
+    color: #16423C;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0;}
+    to { opacity: 1;}
+}
+
+.nama-mempelai {
+    animation: fadeIn 2s ease-in;
+}
+
+.container2 {
+    background-image: url(img/BACKGROUND.jpeg);
+    text-align: center;
+    color: white;
+    margin: 50px auto;
+    margin-top: 30px;
+    border-radius: 20px;
+    padding: 10px;
+    height: 852px;
+    width: 393px;
+}
+
+.open-button {
+    background-color: #6A9C89;
+    padding: 10px 10px;
+    border-radius: 100px;
+    color: white;
+}
+
+.tamu-undangan {
+    margin-top: 445px;
+}
+
+/*Button bawah*/
+.nav-footer {
+    background-color: #6A9C89;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px;
+    width: 373px;
+    margin-top: 120px;
+    margin-left: -10px;
+}
+
+.nav-footer2 {
+    background-color: #6A9C89;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px;
+    width: 373px;
+    margin-top: 51px;
+    margin-left: -10px;
+}
+
+.nav-footer3 {
+    background-color: #6A9C89;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px;
+    width: 373px;
+    margin-top: 86px;
+    margin-left: -10px;
+}
+
+.nav-footer4 {
+    background-color: #6A9C89;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px;
+    width: 373px;
+    margin-top: -8px;
+    margin-left: -10px;
+}
+
+.nama-mempelai3{
+    font-family: Sacramento;
+    font-size: 40px;
+    padding: 10px;
+    color: black;
+}
+
+.nama-mempelai2 {
+    color: #16423C;
+}
+
+.nama-mempelai {
+    font-family: Sacramento;
+    font-size: 50px;
+}
+
+.nama-mempelai4 {
+    font-family: Sacramento;
+    font-size: 40px;
+    padding: 10px;
+    color: black;
+}
+
+.nama-mempelai5 {
+    font-family: Sacramento;
+    font-size: 40px;
+    padding: 10px;
+    color: black;
+}
+
+/*opening*/
+.pembuka {
+    font-size: 26px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0;}
+    to { opacity: 1;}
+}
+
+
+.arabic-text {
+    font-size: 24px;
+    margin-top: 54px;
+    margin-bottom: 63px;
+    line-height: 1.5;
+    direction: rtl;
+}
+
+.translation {
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+.reference {
+    font-size: 16px;
+    font-style: italic;
+    padding: 7px;
+}
+
+.container3 {
+    margin: 10px;
+    padding: 54px;
+    color: black;
+    background-color: #C4DAD2;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 78px;
+}
+
+/*mempelai*/
+.couple-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex-direction: column;
+}
+
+.bridegroom {
+    text-align: center;
+    padding: 35px;
+    width: 309px;
+    display: flex;
+}
+
+.bride {
+    text-align: center;
+    padding: 35px;
+    width: 309px;
+    display: flex;
+}
+
+.bridegroom img {
+    width: 160px;
+    height: 160px;
+    border-radius: 100px;
+    margin-bottom: 10px;
+    margin-left: -27px;
+}
+
+.bride img {
+    width: 160px;
+    height: 160px;
+    border-radius: 100px;
+    margin-bottom: 10px;
+    margin-left: -27px;
+}
+
+.bridegroom h3 {
+    font-size: 1.8em;
+    color: #3e6b42;
+}
+
+.bride h3 {
+    font-size: 1.8em;
+    color: #3e6b42;
+}
+
+.bridegroom p {
+    font-size: 1em;
+    color: #5e4743;
+}
+
+.bride p {
+    font-size: 1em;
+    color: #5e4743;
+    margin-right: 30px;
+}
+
+.bi-heart-fill::before {
+    content: "\f415";
+    color: #3e6b42;
+    font-size: 35px;
+}
+
+/* Gallery */
+.Gallery1 {
+    width: 350px;
+    height: 155px;
+    size: 100px;    
+}
+
+.Gallery2 {
+    display: grid;
+    width: 150px;
+    height: 175px;
+    margin-left: 18px;
+    margin-right: 219px;
+    margin-top: 5px;
+}
+
+.Gallery3 {
+    display: grid;
+    width: 195px;
+    height: 351px;
+    margin-left: 156px;
+    margin-top: -179px;
+}
+
+.Gallery4 {
+    display: grid;
+    width: 350px;
+    margin-left: 1px;
+    margin-top: 2px;
+    height: auto;
+}
+
+.Gallery5 {
+    display: grid;
+    width: 150px;
+    height: 169px;
+    margin-left: 19px;
+    margin-top: -700px;
+    margin-right: 220px;
+    margin-bottom: 154px;
+}
+
+/* Wedding event */
+.container4{
+    margin: 10px;
+    padding: 10px;
+    color: black;
+    background-color: #C4DAD2;
+    text-align: center; /*Agar text di tengah*/
+    border-radius: 10px;
+}
+
+.Akad-nikah {
+    background-color: #6A9C89;
+    padding: 10px 10px;
+    border-radius: 100px;
+    color: white;
+    cursor: pointer;
+}
+
+.container5{
+    margin: 10px;
+    padding: 10px;
+    color: black;
+    background-color: #C4DAD2;
+    text-align: center; /*Agar text di tengah*/
+    border-radius: 10px;
+}
+
+/* Section RSVP */
+#rsvp h2 {
+    color: #6A9C89;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#rsvp form {
+    display: inline-block;
+    text-align: left;
+    max-width: 300px;
+    width: 100%;
+    padding: 40px;
+}
+
+#rsvp label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #16423C;
+}
+
+#rsvp input[type="text"],
+#rsvp input[type="email"],
+#rsvp select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+#rsvp button {
+    background-color: #16423C;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+#rsvp button:hover {
+    background-color: #6A9C89;
+}
+
+#pesan-konfirmasi {
+    color: #16423C;
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+.Rsvp {
+    color: #16423C;
+}
+
+.container6 {
+    margin: 10px;
+    padding: 10px;
+    color: black;
+    background-color: #C4DAD2;
+    text-align: center; /*Agar text di tengah*/
+    border-radius: 10px;
+}
+
+.Mandiri {
+    width: 100px;
+    height: 31.4px;
+}
+
+.Bca {
+    width: 100px;
+    height: 46.73px;
+}
+
+.nav-footer5 {
+    background-color: #6A9C89;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px;
+    width: 373px;
+    margin-top: 4px;
+    margin-left: -10px;
+}
+
+
+.footer1 {
+    text-align: center;
+}
+
+
+.container8 {
+    text-align: center;
+}
+
+.container8 h1 {
+    color: #16423C;
+    padding: 10px;
+    font-size: 2rem;
+}
+
+.p1 {
+    font-size: 10px;
+    margin: 20px;
+}
+
+.container8 h4 {
+    font-size: 10px;
+    padding: 32px;
+}
+
+/* icon */
+.nav-footer{
+    color: white;
+}
+
+.navpembuka{
+    margin-top: 10px;
+}
+
+.ikonpembuka{
+    width:20px;
+    height: 20px;
+}
+
+.Gambar-penutup {
+    width: 100px;
+    height: 170px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+}
+
+
+@media screen and (max-width: 383px) {
+    .families {
+        flex-direction: column;
+    }
+
+    .family {
+        margin: 10px 0;
+    }
+}
